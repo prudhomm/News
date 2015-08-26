@@ -57,16 +57,3 @@ tags: feelpp, cemosis, csmi
 # Webhook for 3 websites
 
 To setup webhook for feelpp.org csmi.unistra.fr and www.cemosis.fr, add a webhook that send to http://hostname:8080/hooks/news/master. Then destination machine will execute script to pull changes from news repository and push commits into their own repositories.
-
-## setup git push.default
-
-git config --global push.default simple
-
-## setup git authentification to avoid account/passwd
-
-git config --global user.name "feelpp-robot"
-git config --global user.email "feelpp-robot@feelpp.org"
-ssh-keygen -t rsa -C "feelpp-robot@feelpp.org"
-
-Generate ssh key and copy it to github settings.
-And when pull repository use something like `git clone ssh://git@github.com/cemosis/csmi.cemosis.fr`, do not use https protocol.
