@@ -64,5 +64,9 @@ git config --global push.default simple
 
 ## setup git authentification to avoid account/passwd
 
+git config --global user.name "feelpp-robot"
+git config --global user.email "feelpp-robot@feelpp.org"
+ssh-keygen -t rsa -C "feelpp-robot@feelpp.org"
+
 Generate ssh key and copy it to github settings.
 And when pull repository use something like `git clone ssh://git@github.com/cemosis/csmi.cemosis.fr`, do not use https protocol.
