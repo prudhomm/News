@@ -1,6 +1,6 @@
 ---
 layout: news_item
-title: Soutenances de stages des M1
+title: Soutenances de stages des M1/CSMI
 date: 2015-08-26
 author: prudhomm
 categories: website
