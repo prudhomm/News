@@ -75,5 +75,3 @@ img: /img/project/cabin.png
 collaborator: 
 ---
 ```
-
-
