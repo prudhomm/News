@@ -76,4 +76,4 @@ collaborator:
 ---
 ```
 
-
+Actually there are 3 types of project for cemosis website: `[interdisciplinary-bio-project]`, `[entreprise-project]` and `[interdisciplinary-physics-project]`. They are all under the same tags: `[cemosis-project]`.
