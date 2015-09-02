@@ -18,16 +18,17 @@ La simulation de ce phènomène se fait généralement en couplant l'équation d
 <h5>Objectifs :</h5>
 L'objectif de ce projet est de déterminer le rôle de la composante verticale du fluide, qui est reporté en post-traitement dans Saint-Venant, dans le calcul de la loi d'Exner.
 Ainsi, le but est d'utiliser Navier-Stokes pour la partie fluide et comparer les résultats avec des tests physiques et des résultats utilisant Saint-Venant.
-Lors du Centre d'Été Mathématique de Recherche Avancée en Calcul Scientifique (CEMRACS 2015), un premier couplage a été effectué par une équipe en utilisant la librairie Feel++.
+Lors du Centre d'Été Mathématique de Recherche Avancée en Calcul Scientifique ([CEMRACS 2015](http://smai.emath.fr/cemracs/cemracs15/index.html)), un premier couplage a été effectué par une équipe en utilisant la librairie Feel++.
 
 Collaborations :
 
-- Université Bretagne-Sud
-- INRIA
-- CNRS
-- Université de Strasbourg
-- Université de Lorraine
-- Faculté des Sciences et Techniques de Tanger
+- [Université Bretagne-Sud](http://www.univ-ubs.fr)
+- [LEMON-INRIA](https://team.inria.fr/lemon)
+- [Université de Reims](http://www.univ-reims.fr)
+- [IRMA - Université de Strasbourg](http://www-irma.u-strasbg.fr)
+- [LJLL - Université Pierre et Marie Curie](https://www.ljll.math.upmc.fr/fr/presentation.html)
+- [Université de Lorraine](http://www.univ-lorraine.fr)
+- [Faculté des Sciences et Techniques de Tanger](http://www.fstt.ac.ma/Portail/index.php)
 
 Contacts :
 
