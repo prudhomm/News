@@ -5,9 +5,8 @@ date: 2015-11-05
 author: vhuber
 fullname: Vincent HUBER
 categories: [news]
-tags: [cemosis]
-project: [chorus]
+tags: [cemosis,chorus,feelpp]
 ---
 
-J.B. Wahl will present a solving Strategy for Large Scale Aerothermal Simulation using the Open-Source Framework Feel++ at the [Conference on numerical methods and High Performance Computing for industrial fluid flows](http://www.rs-simrace.com/), IFPEN / Rueil-Malmaison - 8-10 December 2015.
+J.B. Wahl will present a strategy to solve large scale aerothermal simulations using [Feel++](http://www.feelpp.org) at the [Conference on numerical methods and High Performance Computing for industrial fluid flows](http://www.rs-simrace.com/), IFPEN / Rueil-Malmaison - 8-10 December 2015.
 
