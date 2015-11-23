@@ -16,7 +16,7 @@ will take place in Strasbourg at IRMA between March 23 and March 25
 
 ## Sponsors
 
-The 4th Feel++ User days are sponsored by
+The 4th Feel++ User days are sponsored by:
 
  - [Cemosis](http://www.cemosis.fr), the Center for Mathematical
    Modeling and Simulation in Strasbourg,
